@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+input[type=text] {
+    margin: 5px;
+    padding: 10px;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.focus-box {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ddd;
+}
+
+.input-container {
+    padding: 10px;
+}
+
+.focus-input {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #fff; /* Fondo blanco por defecto */
+}
+
+#hidden-text {
+    display: none;
+}
